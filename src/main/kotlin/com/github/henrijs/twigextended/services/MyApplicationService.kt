@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.henrijs.twigextended.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.henrijs.twigextended.MyBundle
 
 class MyApplicationService {
 
